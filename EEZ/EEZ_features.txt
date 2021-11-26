@@ -1,0 +1,62 @@
+cone,ridge,summit
+Actinopterygii,5,0,2
+Aldrovandia sp.,1,0,0
+Anguilliformes,1,2,3
+Antigonia sp.,134,0,0
+Bassogigas sp.,0,1,1
+Bassogigas walkeri,0,1,0
+Bassozetus sp.,0,1,0
+Bembrops filiferus,1,0,0
+Bodianus cylindriatus,2,0,0
+Bythitidae,0,0,1
+Chaunacops coloratus,0,0,1
+Chaunax umbrinus,4,0,0
+Chlorophthalmus sp.,1,0,0
+Conger oligoporus,12,0,0
+Coryphaenoides sp.,0,0,1
+Decapterus tabl,120,0,0
+Diplacanthopoma sp.,0,1,0
+Epetriodus freddyi,0,1,1
+Epigonus glossodontus,1,0,0
+Epigonus sp.,22,0,0
+Grammatonotus laysanus,33,0,0
+Hollardia goslinei,19,0,0
+Ilyophinae,0,0,1
+Ilyophis arx,0,1,0
+Ilyophis sp.,0,0,2
+Kumba sp.,2,2,0
+Laemonema rhodochir,23,0,0
+Lamprogrammus sp.,0,0,1
+Lophiodes miacanthus,2,0,0
+Lophiodes sp.,5,0,0
+Macrouridae,1,2,2
+Nezumia sp.,0,0,1
+Ophidiidae,0,0,1
+Owstonia hawaiiensis,1,0,0
+Physiculus sp.,5,0,0
+Polylepion russelli,1,0,0
+Polymixia sp.,2,0,0
+Pontinus macrocephalus,6,0,0
+Pontinus sp.,1,0,0
+Scorpaenidae,10,0,0
+Scorpaeniformes,4,0,0
+Seriola dumerili,64,0,0
+Setarches sp.,2,0,0
+Sladenia remiger,0,0,1
+Solocisquama erythrina,0,0,1
+Spectrunculus sp.,1,0,0
+Squalus hawaiiensis,6,0,0
+Symphurus sp.,1,0,0
+Symphysanodon maunaloae,6,0,0
+Synaphobranchidae,1,1,0
+Synaphobranchus brevidorsalis,0,0,1
+Trachichthyidae,1,0,0
+Zalanthias kelloggi,2,0,0
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+cone,flank,pinnacle,terrace
+Actinopterygii,10,91,7,12
+Anguilliformes,0,8,0,1
+Antigonia sp.,42,0,23,0
+Bathycongrus sp.,0,1,0,0
+Beryx sp.,0,2,0,0
+Beryx splendens,1,0,0,0
+Bramidae,0,2,0,0
+Chaunax umbrinus,1,1,0,0
+Chlorophthalmidae,0,0,0,3
+Chlorophthalmus proridens,0,4,0,0
+Chlorophthalmus sp.,2,6,0,3
+Chrionema chryseres,1,0,3,13
+Chrionema sp.,0,0,0,7
+Coelorinchus aratrum,0,4,0,0
+Congridae,0,7,3,0
+Cyclothone sp.,0,13,0,0
+Cyttomimus stelgis,1,0,0,0
+Decapterus tabl,0,0,5,0
+Ectreposebastes imus,0,4,0,0
+Epigonidae,0,4,0,0
+Epigonus glossodontus,9,1,0,0
+Epigonus sp.,16,2,11,18
+Etmopterus sp.,0,3,0,0
+Eumegistus illustris,0,1,0,0
+Gadomus melanopterus,0,1,0,0
+Gempylidae,0,1,0,0
+Gnathophis sp.,0,0,0,1
+Grammatonotus laysanus,11,0,0,0
+Grammatonotus sp.,1,0,0,0
+Grammicolepis brachiusculus,0,16,0,0
+Halosauridae,0,110,0,0
+Hexatrygon bickelli,0,3,0,0
+Hollardia goslinei,18,53,1,25
+Hoplostethus crassispinus,0,0,0,2
+Hoplostethus sp.,0,0,0,1
+Ijimaia plicatellus,0,0,6,0
+Laemonema rhodochir,5,0,0,0
+Lamprogrammus sp.,0,1,0,0
+Lophiodes cf. bruchius,0,0,0,1
+Macrouridae,5,27,2,0
+Malacocephalus boretzi,0,1,0,0
+Malthopsis jordani,1,0,0,0
+Malthopsis sp.,0,1,0,0
+Meadia abyssalis,0,0,10,1
+Moridae,0,0,0,4
+Myctophidae,0,13,2,0
+Neoscopelus macrolepidotus,0,24,0,0
+Nettastoma parviceps,0,17,0,0
+Nezumia sp.,0,12,0,0
+Ophichthidae,0,8,0,0
+Ophichthus kunaloa,0,0,0,31
+Ophidiidae,1,6,0,0
+Oreosomatidae,0,1,0,0
+Owstonia sp.,0,0,0,3
+Parascombrops argyreus,0,0,0,1
+Percophidae,0,0,0,1
+Phenacoscorpius megalops,1,0,0,0
+Polymixia berndti,2,0,0,0
+Polymixia sp.,0,0,2,1
+Pontinus macrocephalus,0,2,12,2
+Pyramodon sp.,0,5,0,0
+Randallichthys filamentosus,0,2,0,0
+Scalicus engyceros,0,1,1,2
+Scorpaenidae,0,0,12,8
+Scorpaeniformes,21,2,0,1
+Setarches guentheri,8,0,0,0
+Sladenia remiger,0,5,0,0
+Squalus hawaiiensis,0,0,1,1
+Stethopristes eos,1,2,0,0
+Symphysanodon maunaloae,24,0,7,0
+Synagrops sp.,0,5,0,0
+Synaphobranchidae,0,0,13,2
+Trichiuridae,0,1,0,0
+Ventrifossa sp.,1,0,0,0
+Zalanthias kelloggi,0,0,1,0
+
+
+
+
+
+
+
+
+

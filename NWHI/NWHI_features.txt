@@ -1,0 +1,57 @@
+channel,cone,crater,flank,ridge,summit,terrace
+Abyssoberyx sp.,0,0,0,1,0,0,0
+Actinopterygii,0,4,0,4,8,13,2
+Aldrovandia phalacra,0,0,0,0,0,1,0
+Aldrovandia sp.,0,0,0,4,1,2,3
+Alepocephalidae,0,0,0,1,1,0,0
+Anguilliformes,0,5,0,0,0,0,1
+Antimora microlepis,0,0,0,0,1,0,0
+Apristurus sp.,0,0,0,1,0,0,0
+Bassogigas sp.,0,0,1,0,2,0,0
+Bassogigas walkeri,0,0,0,0,2,0,0
+Bassozetus sp.,0,0,0,0,7,0,0
+Bathypterois atricolor,0,0,0,0,0,0,13
+Bathysaurus mollis,0,0,0,1,0,0,0
+Cataetyx hawaiiensis,0,0,0,0,0,1,0
+cf. Bassogigas sp.,0,0,0,1,0,0,0
+Coelorinchus aratrum,0,0,0,0,0,1,0
+Coelorinchus tokiensis,0,0,0,0,0,1,0
+Coryphaenoides longicirrhus,0,0,2,0,6,0,0
+Coryphaenoides longifilis,0,0,0,1,0,0,1
+Coryphaenoides sp.,0,0,1,0,2,1,0
+Cyclothone pallida,0,0,0,1,0,2,0
+Cyclothone sp.,0,0,0,1,0,0,1
+Diplacanthopoma sp.,0,2,0,0,0,1,0
+Epigonus sp.,0,0,0,0,0,1,0
+Gadomus melanopterus,0,0,0,0,1,0,0
+Gadomus sp.,0,0,0,0,0,1,0
+Gonostomatidae,0,0,0,0,0,1,0
+Halosauridae,0,1,0,15,1,4,1
+Halosaurus sp.,0,1,0,0,2,1,2
+Haplomacrourus sp.,0,0,0,0,0,2,0
+Ilyophinae,0,0,0,1,1,3,0
+Ilyophis blachei,0,0,0,0,1,0,0
+Ilyophis sp.,0,0,0,0,5,0,0
+Kumba sp.,0,0,0,2,18,3,0
+Laemonema rhodochir,0,0,0,0,0,1,0
+Lepidion sp.,0,0,0,0,0,1,0
+Leucicorus lusciosus,0,0,0,0,2,0,0
+Macrouridae,1,2,0,0,27,9,1
+Macrourinae,0,0,0,0,2,0,0
+Malacocephalus sp.,0,0,0,0,1,0,0
+Moridae,0,0,0,0,0,1,0
+Nemichthyidae,0,0,0,1,0,0,0
+Neoscopelus macrolepidotus,0,0,0,0,0,4,0
+Nettastoma parviceps,0,0,0,0,0,2,0
+Nezumia obliquata,0,3,0,0,0,0,0
+Nezumia sp.,0,0,0,0,0,2,0
+Ophidiidae,1,0,0,4,7,1,0
+Ophidiiformes,0,0,0,0,1,0,0
+Paraliparis hawaiiensis,0,0,0,0,1,0,0
+Solocisquama erythrina,0,0,0,0,0,1,0
+Spectrunculus grandis,0,0,0,0,1,1,1
+Synaphobranchidae,2,4,1,2,10,15,1
+Synaphobranchinae,0,2,0,0,5,0,0
+Synaphobranchus brevidorsalis,2,0,0,3,13,4,2
+Synaphobranchus sp.,0,2,0,1,1,0,0
+Venefica tentaculata,0,0,0,0,0,0,1

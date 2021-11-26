@@ -1,0 +1,76 @@
+D2-EX1504L3-02,D2-EX1504L3-03,D2-EX1504L4-01,D2-EX1504L4-02,D2-EX1706-01,D2-EX1708-21
+Actinopterygii,11,13,9,14,0,95
+Anguilliformes,1,0,0,0,0,8
+Antigonia sp.,0,0,29,138,0,0
+Bathycongrus sp.,0,0,0,0,0,1
+Beryx sp.,0,2,0,0,0,0
+Beryx splendens,0,0,0,1,0,0
+Bramidae,0,2,0,0,0,0
+Chaunax umbrinus,0,1,0,1,0,0
+Chlorophthalmidae,3,0,0,0,0,0
+Chlorophthalmus proridens,0,1,0,0,3,0
+Chlorophthalmus sp.,3,6,0,2,0,0
+Chrionema chryseres,13,0,4,1,0,0
+Chrionema sp.,10,0,0,0,0,0
+Coelorinchus aratrum,0,0,0,0,0,4
+Congridae,0,0,4,0,0,9
+Cyclothone sp.,0,0,0,0,0,15
+Cyttomimus stelgis,0,0,0,1,0,0
+Decapterus tabl,0,0,37,0,0,0
+Ectreposebastes imus,0,0,0,0,0,4
+Epigonidae,0,4,0,0,0,0
+Epigonus glossodontus,0,2,0,14,0,0
+Epigonus sp.,94,3,19,47,0,0
+Etmopterus sp.,0,0,0,0,0,3
+Eumegistus illustris,0,1,0,0,0,0
+Gadomus melanopterus,0,0,0,0,0,1
+Gempylidae,0,0,0,0,0,1
+Gnathophis sp.,1,0,0,0,0,0
+Grammatonotus laysanus,0,0,0,11,0,0
+Grammatonotus sp.,0,0,0,1,0,0
+Grammicolepis brachiusculus,0,18,0,0,0,0
+Halosauridae,0,0,0,0,0,151
+Hexatrygon bickelli,0,0,0,0,0,3
+Hollardia goslinei,33,53,2,18,0,0
+Hoplostethus crassispinus,2,0,0,0,0,0
+Hoplostethus sp.,1,0,0,0,0,0
+Ijimaia plicatellus,0,0,6,0,0,0
+Laemonema rhodochir,0,0,0,5,0,0
+Lamprogrammus sp.,0,0,0,0,0,1
+Lophiodes cf. bruchius,1,0,0,0,0,0
+Macrouridae,0,0,2,5,0,28
+Malacocephalus boretzi,0,0,0,0,1,0
+Malthopsis jordani,0,0,0,1,0,0
+Malthopsis sp.,0,1,0,0,0,0
+Meadia abyssalis,0,0,19,0,0,0
+Moridae,4,0,0,0,0,0
+Myctophidae,0,2,3,0,0,12
+Neoscopelus macrolepidotus,0,0,0,0,0,25
+Nettastoma parviceps,0,0,0,0,0,18
+Nezumia sp.,0,0,0,0,0,14
+Ophichthidae,0,9,0,0,0,0
+Ophichthus kunaloa,33,0,0,0,0,0
+Ophidiidae,0,0,0,1,0,6
+Oreosomatidae,0,0,0,0,0,1
+Owstonia sp.,3,0,0,0,0,0
+Parascombrops argyreus,0,0,1,0,0,0
+Percophidae,1,0,0,0,0,0
+Phenacoscorpius megalops,0,0,0,1,0,0
+Polymixia berndti,0,0,0,2,0,0
+Polymixia sp.,0,0,7,0,0,0
+Pontinus macrocephalus,2,2,16,0,0,0
+Pyramodon sp.,0,0,0,0,0,5
+Randallichthys filamentosus,0,5,0,0,0,0
+Scalicus engyceros,2,1,1,0,0,0
+Scorpaenidae,8,0,19,0,0,0
+Scorpaeniformes,1,2,0,26,0,0
+Setarches guentheri,0,0,0,8,0,0
+Sladenia remiger,0,0,0,0,0,6
+Squalus hawaiiensis,0,0,2,0,0,0
+Stethopristes eos,0,0,0,1,2,0
+Symphysanodon maunaloae,0,0,23,99,0,0
+Synagrops sp.,0,0,0,0,7,0
+Synaphobranchidae,0,0,19,0,0,0
+Trichiuridae,0,0,0,0,0,1
+Ventrifossa sp.,0,0,0,1,0,0
+Zalanthias kelloggi,0,0,1,0,0,0

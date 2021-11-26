@@ -1,0 +1,54 @@
+D2-EX1504L3-04,D2-EX1504L3-05,D2-EX1504L3-06,D2-EX1708-01,D2-EX1708-19,D2-EX1708-20
+Actinopterygii,0,2,0,0,1,4
+Aldrovandia sp.,0,0,0,0,1,0
+Anguilliformes,0,3,2,0,0,1
+Antigonia sp.,0,0,0,0,0,134
+Bassogigas sp.,1,0,0,1,0,0
+Bassogigas walkeri,0,0,1,0,0,0
+Bassozetus sp.,0,0,1,0,0,0
+Bembrops filiferus,0,0,0,0,0,1
+Bodianus cylindriatus,0,0,0,0,0,2
+Bythitidae,0,1,0,0,0,0
+Chaunacops coloratus,0,0,0,1,0,0
+Chaunax umbrinus,0,0,0,0,0,4
+Chlorophthalmus sp.,0,0,0,0,0,1
+Conger oligoporus,0,0,0,0,0,12
+Coryphaenoides sp.,0,0,0,1,0,0
+Decapterus tabl,0,0,0,0,0,120
+Diplacanthopoma sp.,0,0,1,0,0,0
+Epetriodus freddyi,0,1,1,0,0,0
+Epigonus glossodontus,0,0,0,0,0,1
+Epigonus sp.,0,0,0,0,0,22
+Grammatonotus laysanus,0,0,0,0,0,33
+Hollardia goslinei,0,0,0,0,0,19
+Ilyophinae,0,1,0,0,0,0
+Ilyophis arx,0,0,1,0,0,0
+Ilyophis sp.,0,2,0,0,0,0
+Kumba sp.,0,0,2,0,2,0
+Laemonema rhodochir,0,0,0,0,0,23
+Lamprogrammus sp.,0,1,0,0,0,0
+Lophiodes miacanthus,0,0,0,0,0,2
+Lophiodes sp.,0,0,0,0,0,5
+Macrouridae,0,2,2,0,1,0
+Nezumia sp.,0,1,0,0,0,0
+Ophidiidae,0,0,0,1,0,0
+Owstonia hawaiiensis,0,0,0,0,0,1
+Physiculus sp.,0,0,0,0,0,5
+Polylepion russelli,0,0,0,0,0,1
+Polymixia sp.,0,0,0,0,0,2
+Pontinus macrocephalus,0,0,0,0,0,6
+Pontinus sp.,0,0,0,0,0,1
+Scorpaenidae,0,0,0,0,0,10
+Scorpaeniformes,0,0,0,0,0,4
+Seriola dumerili,0,0,0,0,0,64
+Setarches sp.,0,0,0,0,0,2
+Sladenia remiger,0,1,0,0,0,0
+Solocisquama erythrina,0,1,0,0,0,0
+Spectrunculus sp.,0,0,0,0,1,0
+Squalus hawaiiensis,0,0,0,0,0,6
+Symphurus sp.,0,0,0,0,0,1
+Symphysanodon maunaloae,0,0,0,0,0,6
+Synaphobranchidae,0,0,1,0,1,0
+Synaphobranchus brevidorsalis,0,0,0,1,0,0
+Trachichthyidae,0,0,0,0,0,1
+Zalanthias kelloggi,0,0,0,0,0,2
