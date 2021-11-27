@@ -9,6 +9,7 @@ library(ggplot2)
 #Fix Bug
 source ("https://gist.githubusercontent.com/zdealveindy/f30fa1f0264eabe95828218f61e63df0/raw/333937c2155dc3b8afddd1663e266b6183062602/plot.iNEXT_quickfix")
 
+setwd("~/R/project/MHI")
 
 #iNEXT method 1 species abundance
 DataInfo (MHI_dives, datatype = 'abundance')
