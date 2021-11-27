@@ -15,7 +15,7 @@ DataInfo (NWHI_dives, datatype = 'abundance')
 NWHI_dives <- iNEXT (NWHI_dives, datatype = 'abundance')
 plot (NWHI_dives)
 
-#iNEXT method 2 species abundance by dives
+#CHOSEN METHOD: iNEXT method 2 species abundance by dives
 NWHI_dives = read.csv("NWHI_dives.txt")
 NWHI_dives <- data.frame(NWHI_dives)
 

@@ -16,18 +16,18 @@ DataInfo (EEZ_dives, datatype = 'abundance')
 EEZ_dives <- iNEXT (EEZ_dives, datatype = 'abundance')
 plot (EEZ_dives)
 
-### iNEXT method 2 species abundance by dives
+### CHOSEN METHOD: iNEXT method 2 species abundance by dives
 EEZ_dives = read.csv("EEZ_dives.txt")
 EEZ <- data.frame(EEZ_dives)
-# call iNEXT on the list
-EEZ_dives <- iNEXT(EEZ_dives, q=0, datatype="abundance")
-# Sample-size-based R/E curves
-ggiNEXT(EEZ_dives, type=1)
+
+EEZ_dives <- iNEXT(EEZ_dives, q=0, datatype="abundance") # call iNEXT on the list
+
+ggiNEXT(EEZ_dives, type=1) # Sample-size-based R/E curves
 
 ### iNEXT method 2 species abundance by features
 EEZ_features = read.csv("EEZ_features.txt")
 EEZ_features <- data.frame(EEZ_features)
-# call iNEXT on the list
-EEZ_features <- iNEXT(EEZ_features, q=0, datatype="abundance")
-# Sample-size-based R/E curves
-ggiNEXT(EEZ_features, type=1)
+
+EEZ_features <- iNEXT(EEZ_features, q=0, datatype="abundance") # call iNEXT on the list
+
+ggiNEXT(EEZ_features, type=1)# Sample-size-based R/E curves

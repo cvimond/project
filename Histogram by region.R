@@ -1,28 +1,33 @@
 #Histogram by region
 
+library(ggplot2)
 
 #MHI
-Mdata <- read.csv("MHI Meta copy.csv")
-Mdata
-ggplot(Mdata, aes(DepthInMeters)) + geom_histogram()
-ggplot(Mdata, aes(DepthInMeters)) + geom_histogram(binwidth = 250)
-ggplot(Mdata, aes(DepthInMeters)) + geom_histogram()+
+setwd("~/R/project/MHI")
+M_Meta <- read.csv("MHI Meta.csv")
+M_Meta
+ggplot(M_Meta, aes(DepthInMeters)) + geom_histogram()
+ggplot(M_Meta, aes(DepthInMeters)) + geom_histogram(binwidth = 250)
+ggplot(M_Meta, aes(DepthInMeters)) + geom_histogram()+
   coord_cartesian(xlim =c(100,1400))
 
 
 #NWHI
-N_data <- read.csv("NWHI.csv")
-N_data
-ggplot(NWHI, aes(DepthInMeters)) + geom_histogram()
-ggplot(NWHI, aes(DepthInMeters)) + geom_histogram(binwidth = 100)
-ggplot(NWHI, aes(DepthInMeters)) + geom_histogram()+
+setwd("~/R/project/NWHI")
+N_Meta <- read.csv("NWHI Meta.csv")
+N_Meta
+ggplot(N_Meta, aes(DepthInMeters)) + geom_histogram()
+ggplot(N_Meta, aes(DepthInMeters)) + geom_histogram(binwidth = 100)
+ggplot(N_Meta, aes(DepthInMeters)) + geom_histogram()+
   coord_cartesian(xlim =c(100,1400))
 
 
 #EEZ
-E_data <- read.csv("EEZ.csv")
-E_data
-ggplot(E_data, aes(DepthInMeters)) + geom_histogram()
-ggplot(E_data, aes(DepthInMeters)) + geom_histogram(binwidth = 100)
-ggplot(E_data, aes(DepthInMeters)) + geom_histogram()+
+setwd("~/R/project/EEZ")
+E_Meta <- read.csv("EEZ Meta.csv")
+E_Meta
+ggplot(E_Meta, aes(DepthInMeters)) + geom_histogram()
+ggplot(E_Meta, aes(DepthInMeters)) + geom_histogram(binwidth = 100)
+ggplot(E_Meta, aes(DepthInMeters)) + geom_histogram()+
   coord_cartesian(xlim =c(100,1400))
+

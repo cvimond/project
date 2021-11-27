@@ -15,21 +15,21 @@ DataInfo (MHI_dives, datatype = 'abundance')
 MHI_dives <- iNEXT (MHI_dives, datatype = 'abundance')
 plot (MHI_dives)
 
-#iNEXT method 2 species abundance by dives
+# CHOSEN METHOD: iNEXT method 2 species abundance by dives
 MHI_dives = read.csv("MHI_dives.txt")
 MHI <- data.frame(MHI_dives)
-# call iNEXT on the list
-MHI <- iNEXT(MHI_dives, q=0, datatype="abundance")
-# Sample-size-based R/E curves
-ggiNEXT(MHI, type=1)
+
+MHI <- iNEXT(MHI_dives, q=0, datatype="abundance") # call iNEXT on the list
+
+ggiNEXT(MHI, type=1) # Sample-size-based R/E curves
 
 ### iNEXT method 2 species abundance by features
 MHI_features = read.csv("MHI_features.txt")
 MHI_features <- data.frame(MHI_features)
-# call iNEXT on the list
-MHI_features <- iNEXT(MHI_features, q=0, datatype="abundance")
-# Sample-size-based R/E curves
-ggiNEXT(MHI_features, type=1)
+
+MHI_features <- iNEXT(MHI_features, q=0, datatype="abundance") # call iNEXT on the list
+
+ggiNEXT(MHI_features, type=1) # Sample-size-based R/E curves
 
 
 
