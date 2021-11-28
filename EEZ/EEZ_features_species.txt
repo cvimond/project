@@ -52,11 +52,3 @@ Synaphobranchidae,1,1,0
 Synaphobranchus brevidorsalis,0,0,1
 Trachichthyidae,1,0,0
 Zalanthias kelloggi,2,0,0
-
-
-
-
-
-
-
-
